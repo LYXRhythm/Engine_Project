@@ -4,9 +4,6 @@
   ② 发动舱内异物检测；
   ③ 发动舱内线距离参数检测。
 
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
 
 ![](readme.png)
 
