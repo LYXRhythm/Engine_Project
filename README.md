@@ -18,6 +18,7 @@ python win_main.py
 
 ## 模型下载
 
+模型下载后，放到weight文件夹下
 target2:
     链接：https://pan.baidu.com/s/17GNOMdNL1H_Ws6RBYfMJ_g 
     提取码：90vj 
