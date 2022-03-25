@@ -17,15 +17,11 @@ python win_main.py
 ```
 
 ## 模型下载
-<<<<<<< HEAD
+模型下载后，放到weight文件夹下
 target1:
     链接：https://pan.baidu.com/s/16i7EAcooFf866v5Ao96Pog 
     提取码：qzqk 
-=======
 
-模型下载后，放到weight文件夹下
-
->>>>>>> 8069df0d343b73e7de1cfab8e07e6c9be65f99dc
 target2:
     链接：https://pan.baidu.com/s/17GNOMdNL1H_Ws6RBYfMJ_g 
     提取码：90vj 
